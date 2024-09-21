@@ -9,6 +9,5 @@ int main(){
     cout<<typeOfTea<<endl;
     cout<<"The price of tea is "<<TeapriceperKilogram<<endl;
     cout<<"the rating of this tea is "<<rating<<endl;
-
-
+    cout<<"i dont like zed"<<endl;
 }
